@@ -1,0 +1,5 @@
+[18-Dec-2023 10:47:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/softgetix2/public_html/projects/tutorcitydemo/wp-includes/class-wpdb.php on line 2320
+[18-Dec-2023 10:47:34 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/softgetix2/public_html/projects/tutorcitydemo/wp-includes/class-wpdb.php on line 2320
+[18-Dec-2023 10:47:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/softgetix2/public_html/projects/tutorcitydemo/wp-includes/class-wpdb.php on line 2320
+[18-Dec-2023 10:47:49 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/softgetix2/public_html/projects/tutorcitydemo/wp-includes/class-wpdb.php on line 2320
+[18-Dec-2023 10:47:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/softgetix2/public_html/projects/tutorcitydemo/wp-includes/class-wpdb.php on line 2320
